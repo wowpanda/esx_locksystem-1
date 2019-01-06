@@ -29,7 +29,7 @@ For help with ESX AIOMenu, the new version of ESX Identity, or the new version o
 * Special thanks to the original creator of the script, Deediezi. His script can be found here:
 [FiveM_Locksystem](https://forum.fivem.net/t/release-locksystem-3-1-updated-the-07-16-2018-beta/17750)
 * Special thanks to the person who originally converted the script to ESX, xseba360. His script can be found here:
-[ESX_Locksystem] (https://github.com/Xseba360/esx_locksystem)
+[ESX_Locksystem](https://github.com/Xseba360/esx_locksystem)
 
 ## Licensing
 
