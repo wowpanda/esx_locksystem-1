@@ -5,6 +5,7 @@ Modified Version Of ESX Locksystem
 
 ## Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
+* [esx_vehicleshop](https://github.com/ESX-Org/esx_vehicleshop)
 
 
 
