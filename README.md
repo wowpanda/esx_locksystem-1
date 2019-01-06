@@ -1,7 +1,7 @@
 # esx_locksystem
 
 ## Description
-Modified Version Of ESX Locksystem
+Modified Version Of ESX Locksystem.
 
 ## Requirements
 * [es_extended](https://github.com/ESX-Org/es_extended)
